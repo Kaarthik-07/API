@@ -14,11 +14,14 @@ const UserProfile = () => {
       }
     };
 
-    fetchUserProfileData();
+    fetchUserProfileData();                                   
   }, []);
 
   return (
-    <div className="max-w-md relative mx-auto bg-white rounded-xl overflow-hidden shadow-lg">
+
+    <>
+    <div className="flex justify-center items-center h-screen">
+    <div className="bg-gradient-to-r from-teal-100 to-gray-100 max-w-md relative mx-auto rounded-xl overflow-hidden shadow-lg">
       {userProfileData && (
         <>
           <img
@@ -142,6 +145,9 @@ const UserProfile = () => {
         </a>
       </div>
     </div>
+    </div>
+    
+    </>
   );
 };
 
