@@ -128,7 +128,7 @@ const UserProfile = () => {
 
       <div className="px-4 py-4 absolute bottom-0 right-0">
         <a
-          href="https://github.com/your-github-username"
+          href="https://github.com/Kaarthik-07"
           target="_blank"
           rel="noopener noreferrer"
         >
