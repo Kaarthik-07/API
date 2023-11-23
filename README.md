@@ -78,4 +78,4 @@ Kaarthik Raja J
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Remember to replace `[Your Full Name]` with your actual full name and provide a valid URL for the preview section. Additionally, ensure that you have Node.js installed for the installation steps to work correctly.
+https://github.com/Kaarthik-07/API/issues/1#issue-2008031725
